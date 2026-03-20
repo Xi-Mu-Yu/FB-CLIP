@@ -64,6 +64,9 @@ python mvtec.py
 
 
 ### Run FB-CLIP
+
+
+“Our pretrained weights are available at: https://drive.google.com/drive/folders/1YnNLLfdoQFNlvFB8ez_3XZ9Ox5ZrGDCa?usp=drive_link”
 * Quick start (use the pre-trained weights)
 ```bash
 bash test.sh
