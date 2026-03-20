@@ -12,14 +12,12 @@ Fine-grained anomaly detection is crucial in industrial and medical applications
 
 ## How to Run
 
+```
 conda create -n FBCLIP python=3.8.20
-
 conda activate FBCLIP
-
 pip install torch==2.0.0 torchvision==0.15.1 --index-url https://download.pytorch.org/whl/cu118
-
 pip install -r requirements.txt
-
+```
 
 ### Prepare your dataset
 Following [AnomalyCLIP](https://github.com/zqhang/AnomalyCLIP) ,download the dataset below:
