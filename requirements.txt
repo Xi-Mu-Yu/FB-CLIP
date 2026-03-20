@@ -1,0 +1,13 @@
+torchaudio
+tqdm
+tensorboard
+setuptools
+opencv-python
+scikit-image
+scikit-learn
+matplotlib
+seaborn
+ftfy
+regex
+numpy
+gradio
