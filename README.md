@@ -77,8 +77,11 @@ bash train_on_mvtec.sh
 bash train_on_visa.sh
 ```
 
-
-
+### To Test Real-IAD
+Due to the large size of the Real-IAD dataset, we recommend testing on a per-category basis.
+```bash
+bash test_realAD_by_class.sh
+```
 
 * Our code is largely based on [AnomalyCLIP](https://github.com/zqhang/AnomalyCLIP) and [AF-CLIP](https://github.com/Faustinaqq/AF-CLIP). Thanks for these authors for their valuable work, hope our work can also contribute to related research.
 
